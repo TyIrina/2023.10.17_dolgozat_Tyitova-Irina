@@ -1,0 +1,34 @@
+
+body{
+    background-color: gray;
+}
+table{
+    background-color: white;
+    width: 1000px;
+}
+th{
+    width: 200px;
+    color: blue;
+}
+thead tr th:first-child,
+tbody tr td:first-child {
+width: 200px;
+}
+thead tr th:last-child
+tbody tr th:last-child{
+    width: 200px;
+}
+h1{ 
+    color: red;
+    
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    color: red; 
+}
+
+li{
+    
+}
